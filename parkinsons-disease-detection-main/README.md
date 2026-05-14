@@ -73,12 +73,12 @@ Given the critical nature of healthcare applications, we integrated XAI techniqu
 
 # 👤 Author
 
-## Tanishk Jain
+## Vanshika Motwani
 
 ### Connect with me
 
 - **GitHub:** [tanishhhk](https://github.com/vanshiiii11)
-- **LinkedIn:** [linkedin.com/in/vanshika-motwani](https://www.linkedin.com/in/vanshika-motwani-2834b632b)
+- **LinkedIn:** [linkedin.com/in/vanshika](https://www.linkedin.com/in/vanshika-motwani-2834b632b)
 
 ---
 
