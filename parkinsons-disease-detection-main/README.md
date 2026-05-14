@@ -77,7 +77,7 @@ Given the critical nature of healthcare applications, we integrated XAI techniqu
 
 ### Connect with me
 
-- **GitHub:** [tanishhhk](https://github.com/vanshiiii11)
+- **GitHub:** [Vanhiiii11](https://github.com/vanshiiii11)
 - **LinkedIn:** [linkedin.com/in/vanshika](https://www.linkedin.com/in/vanshika-motwani-2834b632b)
 
 ---
